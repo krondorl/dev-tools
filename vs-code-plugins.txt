@@ -1,0 +1,16 @@
+code --install-extension aaronphy.scss-scan
+code --install-extension alexiv.vscode-angular2-files
+code --install-extension Angular.ng-template
+code --install-extension christian-kohler.npm-intellisense
+code --install-extension christian-kohler.path-intellisense
+code --install-extension CoenraadS.bracket-pair-colorizer
+code --install-extension cssho.vscode-svgviewer
+code --install-extension dbaeumer.vscode-eslint
+code --install-extension eamodio.gitlens
+code --install-extension EditorConfig.EditorConfig
+code --install-extension eg2.tslint
+code --install-extension Mikael.Angular-BeastCode
+code --install-extension msjsdiag.debugger-for-chrome
+code --install-extension robinbentley.sass-indented
+code --install-extension steoates.autoimport
+code --install-extension wayou.vscode-todo-highlight
